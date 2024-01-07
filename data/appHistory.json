@@ -1,0 +1,19 @@
+{
+    "Daily Calorie Limit": 2000,
+    "All meals": [{
+        "Food items": [
+            {
+                "Quantity": 1,
+                "Calories": 95,
+                "Name": "apple"
+            },
+            {
+                "Quantity": 1,
+                "Calories": 105,
+                "Name": "banana"
+            }
+        ],
+        "Total calories": 0,
+        "Name": "breakfast"
+    }]
+}

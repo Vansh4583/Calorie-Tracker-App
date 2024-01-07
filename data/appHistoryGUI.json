@@ -1,0 +1,29 @@
+{
+    "Daily Calorie Limit": 2000,
+    "All meals": [{
+<<<<<<< HEAD
+        "Food items": [
+            {
+                "Quantity": 2,
+                "Calories": 100,
+                "Name": "omelette"
+            },
+            {
+                "Quantity": 1,
+                "Calories": 235,
+                "Name": "cake slice"
+            }
+        ],
+        "Total calories": -100,
+        "Name": "adsdf"
+=======
+        "Food items": [{
+            "Quantity": 1,
+            "Calories": 100,
+            "Name": "omelette"
+        }],
+        "Total calories": 0,
+        "Name": "sdcs"
+>>>>>>> 6d809d4 (Changes in README.md)
+    }]
+}
